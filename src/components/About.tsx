@@ -36,7 +36,7 @@ export function About() {
           >
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1590615372401-09880757f59d?q=80&w=800&auto=format&fit=crop" 
+                src="/images/about-logistics.png" 
                 alt="Operação Logística" 
                 className="w-full aspect-video md:aspect-[4/5] object-cover"
               />

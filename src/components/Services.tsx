@@ -5,7 +5,7 @@ export function Services() {
   const services = [
     {
       icon: <Truck className="h-8 w-8 text-white" />,
-      image: "https://images.unsplash.com/photo-1617469165786-8007eda3caa7?q=80&w=800&auto=format&fit=crop",
+      image: "/images/service-motofrete.png",
       title: 'Moto Frete Prime',
       tag: 'Agilidade Máxima',
       description: 'Entregas ultra-rápidas de documentos, cartórios e serviços bancários com motofretistas especializados.',
@@ -13,7 +13,7 @@ export function Services() {
     },
     {
       icon: <Truck className="h-8 w-8 text-white" />,
-      image: "https://images.unsplash.com/photo-1588636184285-d72b22588147?q=80&w=800&auto=format&fit=crop",
+      image: "/images/service-corporate.png",
       title: 'Delivery Corporativo',
       tag: 'Logística B2B',
       description: 'Gestão completa para Food, Farma e Varejo. Implantamos equipe dedicada para o seu fluxo de pedidos.',
@@ -21,7 +21,7 @@ export function Services() {
     },
     {
       icon: <Package className="h-8 w-8 text-white" />,
-      image: "https://images.unsplash.com/photo-1566576721346-d4a3b4eaad5b?q=80&w=800&auto=format&fit=crop",
+      image: "/images/service-long-distance.png",
       title: 'Fora da Capital',
       tag: 'Grande SP e Interior',
       description: 'Logística de longa distância com monitoramento. Atendimento em todo o estado de São Paulo.',

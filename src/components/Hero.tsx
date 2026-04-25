@@ -78,7 +78,7 @@ export function Hero() {
           >
             <div className="relative z-10 rounded-[2.5rem] overflow-hidden border-[12px] border-white/5 shadow-2xl shadow-black/50 aspect-[4/5] lg:aspect-auto">
               <img 
-                src="/imagens/hero1.png" 
+                src="/images/hero-professional.png" 
                 alt="Motoboy Profissional Coopstar Express" 
                 className="w-full h-full object-cover transform hover:scale-110 transition-transform duration-700"
               />
