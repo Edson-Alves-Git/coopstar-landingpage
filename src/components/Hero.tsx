@@ -34,7 +34,7 @@ export function Hero() {
             </h1>
             
             <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-2xl leading-relaxed">
-              Mais de 9 anos de excelência em entregas rápidas e coletas estratégicas. Agilidade total na Capital e Grande São Paulo.
+              Mais de 15 anos de excelência em entregas rápidas e coletas estratégicas. Agilidade total na Capital e Grande São Paulo.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-5">
@@ -55,7 +55,7 @@ export function Hero() {
 
             <div className="grid grid-cols-3 gap-8 mt-16 pt-10 border-t border-white/10">
               <div>
-                <p className="text-3xl font-black text-white">9+</p>
+                <p className="text-3xl font-black text-white">15+</p>
                 <p className="text-sm text-slate-400 font-medium uppercase tracking-wider">Anos de Mercado</p>
               </div>
               <div>

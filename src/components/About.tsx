@@ -18,7 +18,7 @@ export function About() {
     {
       icon: <TrendingUp className="h-8 w-8 text-white" />,
       title: 'Destaque no Mercado',
-      description: 'Mais de 9 anos de história construídos com base na confiança e agilidade em cada coleta.',
+      description: 'Mais de 15 anos de história construídos com base na confiança e agilidade em cada coleta.',
       color: 'bg-slate-900'
     }
   ];
@@ -44,7 +44,7 @@ export function About() {
             </div>
             {/* Experience Badge */}
             <div className="absolute -bottom-10 -right-10 bg-white p-8 rounded-3xl shadow-2xl z-20 border border-slate-100 hidden md:block">
-              <p className="text-5xl font-black text-slate-900 mb-1">9+</p>
+              <p className="text-5xl font-black text-slate-900 mb-1">15+</p>
               <p className="text-sm font-bold text-[#FF6600] uppercase tracking-tighter">Anos de Sucesso</p>
             </div>
           </motion.div>
